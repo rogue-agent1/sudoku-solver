@@ -1,6 +1,14 @@
 # sudoku-solve
-Sudoku solver using backtracking. Zero dependencies.
+
+Sudoku puzzle solver
+
 ## Usage
+
 ```bash
-python3 sudoku_solve.py "530070000600195000098000060800060003400803001700020006060000280000419005000080079"
+python3 sudoku_solve.py --help
 ```
+
+## Features
+
+- Zero dependencies (Python 3.8+)
+- Single file implementation
