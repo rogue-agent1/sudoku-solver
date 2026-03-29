@@ -1,6 +1,6 @@
-# sudoku-solve
+# sudoku-solver
 
-Sudoku puzzle solver
+Sudoku Solver with Backtracking. Zero-dependency, single-file Python CLI.
 
 ## Usage
 
@@ -8,7 +8,6 @@ Sudoku puzzle solver
 python3 sudoku_solve.py --help
 ```
 
-## Features
+## License
 
-- Zero dependencies (Python 3.8+)
-- Single file implementation
+MIT
